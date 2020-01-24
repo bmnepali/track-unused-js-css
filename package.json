@@ -1,0 +1,28 @@
+{
+  "name": "code-coverage",
+  "version": "1.0.0",
+  "description": "This is te code coverage module",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmnepali/track-unused-js-css.git"
+  },
+  "keywords": [
+    "code-coverage",
+    "node",
+    "npm"
+  ],
+  "author": "Buddha Man Nepali",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bmnepali/track-unused-js-css/issues"
+  },
+  "homepage": "https://github.com/bmnepali/track-unused-js-css#readme",
+  "dependencies": {
+    "puppeteer": "^2.0.0"
+  }
+}
